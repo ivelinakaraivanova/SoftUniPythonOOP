@@ -11,7 +11,6 @@ def play_instrument(i):
     return i.play()
 
 
-
 class Guitar:
     def play(self):
         print("playing the guitar")
